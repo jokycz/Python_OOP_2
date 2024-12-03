@@ -1,0 +1,5 @@
+{
+    "12345678": "format_as_json",
+    "87654321": "format_as_csv",
+    "11223344": "format_as_plain_text"
+}
